@@ -1,0 +1,3 @@
+Ads_Name	Ads_Datetime	Location	Price	Properties_Type	Sqft
+HARGA RENDAH, Teres 2 Tingkat, FACING OPEN, Bandar Bistari Perdana	Today, 23:12	Johor	RM 328,000	House	1400 sq.ft.
+HARGA RENDAH, Teres 2 Tingkat, FACING OPEN, Bandar Bistari Perdana	Today, 23:12	Johor	RM 328,000	House	1400 sq.ft.

@@ -1,0 +1,3 @@
+Web scraping is not an area I typically work in; my last experience with it was during my studies some time ago. Completing this task served as a valuable revision for me and gives me a good time. I managed to extract the necessary data during the session, but I noted that the class attributes of the elements change dynamically. This means the script might not work when run in another session.
+
+I understand that a more robust solution would involve crawling multiple pages and handling dynamic content more effectively. Unfortunately, I am not able to achieve this.

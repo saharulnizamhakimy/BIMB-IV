@@ -1,0 +1,5 @@
+Ads_Name	Ads_Datetime	Location	Price	Properties_Type	Sqft
+RENO, FULL FURNISHED , 2-Storey Cluster, Taman Nusantara Prima	Today, 23:16	Johor	RM 754,000	House	2238 sq.ft.
+FULL LOAN, DEKAT SEKOLAH Teres 2-Tingkat, Taman Scientex, Pasir Gudang	Today, 23:16	Johor	RM 365,000	House	960 sq.ft.
+RENO, FULL FURNISHED , 2-Storey Cluster, Taman Nusantara Prima	Today, 23:16	Johor	RM 754,000	House	2238 sq.ft.
+FULL LOAN, DEKAT SEKOLAH Teres 2-Tingkat, Taman Scientex, Pasir Gudang	Today, 23:16	Johor	RM 365,000	House	960 sq.ft.

@@ -1,0 +1,9 @@
+Ads_Name	Ads_Datetime	Location	Price	Properties_Type	Sqft
+Flat Selesa Jaya ,Renovated Skudai	Today, 23:18	Johor	RM 155,000	Apartment / Condominium	517 sq.ft.
+Apartment RMMJ Pangsapuri Kasturi @ Bandar Dato Onn｜near Aeon Dato Onn	Today, 23:18	Johor	RM 310,000	Apartment / Condominium	861 sq.ft.
+2 Stry Renovated Jalan Makmur Taman Damai Jaya, Skudai	Today, 23:18	Johor	RM 355,000	House	770 sq.ft.
+Corner 2 Stry Renovated Guard Gated Jalan Tasek, Near CIQ LArkin	Today, 23:18	Johor	RM 880,000	House	2560 sq.ft.
+Flat Selesa Jaya ,Renovated Skudai	Today, 23:18	Johor	RM 155,000	Apartment / Condominium	517 sq.ft.
+Apartment RMMJ Pangsapuri Kasturi @ Bandar Dato Onn｜near Aeon Dato Onn	Today, 23:18	Johor	RM 310,000	Apartment / Condominium	861 sq.ft.
+2 Stry Renovated Jalan Makmur Taman Damai Jaya, Skudai	Today, 23:18	Johor	RM 355,000	House	770 sq.ft.
+Corner 2 Stry Renovated Guard Gated Jalan Tasek, Near CIQ LArkin	Today, 23:18	Johor	RM 880,000	House	2560 sq.ft.

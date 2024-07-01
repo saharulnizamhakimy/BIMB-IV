@@ -1,0 +1,3 @@
+Ads_Name	Ads_Datetime	Location	Price	Properties_Type	Sqft
+FULLY RENO, Teres 1-Tingkat, CONDITION TIP TOP, Bandar Putra, Kulai	Today, 23:17	Johor	RM 430,000	House	1400 sq.ft.
+FULLY RENO, Teres 1-Tingkat, CONDITION TIP TOP, Bandar Putra, Kulai	Today, 23:17	Johor	RM 430,000	House	1400 sq.ft.

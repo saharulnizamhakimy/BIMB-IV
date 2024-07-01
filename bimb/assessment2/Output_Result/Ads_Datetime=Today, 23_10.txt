@@ -1,0 +1,5 @@
+Ads_Name	Ads_Datetime	Location	Price	Properties_Type	Sqft
+M Condo @ Larkin 🔥 Condominium For Sale!	Today, 23:10	Johor	RM 470,000	Apartment / Condominium	1068 sq.ft.
+Senai New Detached Factory near Seelong Senai Airport City Johor Bahru	Today, 23:10	Johor	RM 20,512,300	Commercial Property	87334 sq.ft.
+M Condo @ Larkin 🔥 Condominium For Sale!	Today, 23:10	Johor	RM 470,000	Apartment / Condominium	1068 sq.ft.
+Senai New Detached Factory near Seelong Senai Airport City Johor Bahru	Today, 23:10	Johor	RM 20,512,300	Commercial Property	87334 sq.ft.

@@ -1,0 +1,3 @@
+Ads_Name	Ads_Datetime	Location	Price	Properties_Type	Sqft
+FULLY RENO, UNBLOCKED VIEW, 2-Storey Bungalow, Taman Sri Pulai Perdana	Today, 23:13	Johor	RM 1,600,000	House	5302 sq.ft.
+FULLY RENO, UNBLOCKED VIEW, 2-Storey Bungalow, Taman Sri Pulai Perdana	Today, 23:13	Johor	RM 1,600,000	House	5302 sq.ft.
